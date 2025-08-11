@@ -1,7 +1,7 @@
 line 1
-Kilroy was here. here we go
+Kilroy was here. here we go. dfdfd 
 line 3
-This is a bug
+This is a bug change
 line 5
-line 6 bla bla
-line 7
+line 6 bla bla some changfe
+line 7. change on feature
