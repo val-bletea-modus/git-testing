@@ -1,5 +1,7 @@
 line 1
-Kilroy was here.
+Kilroy was here. here we go
 line 3
 line 4
 line 5
+line 6 bla bla
+line 7
